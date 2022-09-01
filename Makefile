@@ -1,5 +1,5 @@
 install:
-		npm ci
+		mpm ci
 
 publish:
 		npm publish --dry-run
